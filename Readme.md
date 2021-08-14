@@ -1,3 +1,3 @@
 Perform exploratory analysis by using Linear Regressions on the Kaggle data set.
 
-PR : to be added
+PR : [link](https://github.com/Omardyab/Linear-Regressions/pull/1)
